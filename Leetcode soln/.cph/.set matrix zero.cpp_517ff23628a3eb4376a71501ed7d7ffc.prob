@@ -1,0 +1,1 @@
+{"name":"Local: set matrix zero","url":"d:\\DSA\\Leetcode soln\\set matrix zero.cpp","tests":[{"id":1651513608210,"input":"[[1,1,1],[1,0,1],[1,1,1]]","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\Leetcode soln\\set matrix zero.cpp","group":"local","local":true}
