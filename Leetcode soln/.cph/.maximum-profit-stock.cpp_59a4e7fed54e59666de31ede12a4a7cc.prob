@@ -1,0 +1,1 @@
+{"name":"Local: maximum-profit-stock","url":"d:\\DSA\\Leetcode soln\\maximum-profit-stock.cpp","tests":[{"id":1652182538992,"input":"prices = [7,1,5,3,6,4]","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\Leetcode soln\\maximum-profit-stock.cpp","group":"local","local":true}

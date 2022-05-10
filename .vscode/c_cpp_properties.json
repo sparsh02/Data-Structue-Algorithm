@@ -3,7 +3,9 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "D:/Installed_Softwares/MinGW/include/c++/11.2.0/x86_64-w64-mingw32",
+                "D:/Installed_Softwares/MinGW/include/c++/11.2.0"
             ],
             "defines": [
                 "_DEBUG",
