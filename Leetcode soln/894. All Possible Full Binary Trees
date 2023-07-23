@@ -1,0 +1,8 @@
+--> given a kafka client , we should be able to configure PLAIN/SCRAM and producer and consumer should
+use this config
+
+
+--> client configuration
+---> researched about SASL PLAIN and SCRAM
+----> Tried to implement it in client connector.
+---->
